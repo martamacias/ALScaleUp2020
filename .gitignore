@@ -1,0 +1,10 @@
+*.flf
+*.app
+TestResults.xml
+launch.json
+rad.json
+.output
+.alcache/
+.altemplates/
+.snapshots/
+.altestrunner
